@@ -1,0 +1,199 @@
+
+
+<Cuaca>
+<Tanggal>
+<Mulai>06 September 2016</Mulai>
+<MulaiPukul>07.00</MulaiPukul>
+<Sampai>07 September 2016</Sampai>
+<SampaiPukul>07.00</SampaiPukul>
+</Tanggal>
+<Isi>
+<Row>
+<Kota>Kerinci</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-2.06012</Lintang>
+<Bujur>101.47800</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>19</SuhuMin>
+<SuhuMax>29</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>80</idKota>
+</Row>
+<Row>
+<Kota>Bangko</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-2.20381</Lintang>
+<Bujur>102.05607</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>81</idKota>
+</Row>
+<Row>
+<Kota>Sarolangun</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-2.33009</Lintang>
+<Bujur>102.64934</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>82</idKota>
+</Row>
+<Row>
+<Kota>Bulian</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.85729</Lintang>
+<Bujur>103.01490</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>83</idKota>
+</Row>
+<Row>
+<Kota>Sengeti</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.64549</Lintang>
+<Bujur>103.74605</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>14</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>84</idKota>
+</Row>
+<Row>
+<Kota>Kuala Tungkal</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.12062</Lintang>
+<Bujur>103.14129</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>85</idKota>
+</Row>
+<Row>
+<Kota>Sabak</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.16734</Lintang>
+<Bujur>103.97987</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>86</idKota>
+</Row>
+<Row>
+<Kota>Bungo</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.50943</Lintang>
+<Bujur>101.95847</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>87</idKota>
+</Row>
+<Row>
+<Kota>Tebo</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.39386</Lintang>
+<Bujur>102.31660</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>88</idKota>
+</Row>
+<Row>
+<Kota>Jambi</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.62225</Lintang>
+<Bujur>103.64095</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>14</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>89</idKota>
+</Row>
+<Row>
+<Kota>Sungai Penuh</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-</Lintang>
+<Bujur>-</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Jambi</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>19</SuhuMin>
+<SuhuMax>29</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>12</KecepatanAngin>
+<ArahAngin>Tenggara</ArahAngin>
+<idKota>482</idKota>
+</Row>
+<Peringatan> - </Peringatan>
+</Isi></Cuaca>

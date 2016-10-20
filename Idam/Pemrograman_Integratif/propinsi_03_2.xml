@@ -1,0 +1,335 @@
+
+
+<Cuaca>
+<Tanggal>
+<Mulai>06 September 2016</Mulai>
+<MulaiPukul>07.00</MulaiPukul>
+<Sampai>07 September 2016</Sampai>
+<SampaiPukul>07.00</SampaiPukul>
+</Tanggal>
+<Isi>
+<Row>
+<Kota>Painan</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.74602</Lintang>
+<Bujur>100.81834</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>50</idKota>
+</Row>
+<Row>
+<Kota>Arosuka</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.93358</Lintang>
+<Bujur>100.82961</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>19</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>51</idKota>
+</Row>
+<Row>
+<Kota>Muaro Sijunjung</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.65006</Lintang>
+<Bujur>101.14666</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>61</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>15</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>52</idKota>
+</Row>
+<Row>
+<Kota>Batusangkar</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.47003</Lintang>
+<Bujur>100.58231</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>15</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>53</idKota>
+</Row>
+<Row>
+<Kota>Parit Malintang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.59275</Lintang>
+<Bujur>100.25686</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>54</idKota>
+</Row>
+<Row>
+<Kota>Lubuk Basung</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.26613</Lintang>
+<Bujur>100.15026</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>55</idKota>
+</Row>
+<Row>
+<Kota>Sarilamak</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.00085</Lintang>
+<Bujur>100.56269</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>15</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>56</idKota>
+</Row>
+<Row>
+<Kota>Lubuk Sikaping</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>0.39956</Lintang>
+<Bujur>100.08364</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Cerah Berawan</Cuaca>
+<_symbol>../imagesSWF/Cerah Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>57</idKota>
+</Row>
+<Row>
+<Kota>Tuapejat</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-2.12420</Lintang>
+<Bujur>99.58326</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>58</idKota>
+</Row>
+<Row>
+<Kota>Pulau Punjung</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.24465</Lintang>
+<Bujur>101.51549</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Cerah Berawan</Cuaca>
+<_symbol>../imagesSWF/Cerah Berawan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>61</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>15</KecepatanAngin>
+<ArahAngin>Barat Laut</ArahAngin>
+<idKota>59</idKota>
+</Row>
+<Row>
+<Kota>Padang Aro</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.35893</Lintang>
+<Bujur>101.27556</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Timur Laut</ArahAngin>
+<idKota>60</idKota>
+</Row>
+<Row>
+<Kota>Simpang Empat</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>0.18678</Lintang>
+<Bujur>99.59649</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>61</idKota>
+</Row>
+<Row>
+<Kota>Padang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-1.00273</Lintang>
+<Bujur>100.45137</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>62</idKota>
+</Row>
+<Row>
+<Kota>Solok</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.75919</Lintang>
+<Bujur>100.59880</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>63</idKota>
+</Row>
+<Row>
+<Kota>Sawahlunto</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.67757</Lintang>
+<Bujur>100.78778</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Cerah Berawan</Cuaca>
+<_symbol>../imagesSWF/Cerah Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>64</idKota>
+</Row>
+<Row>
+<Kota>Padangpanjang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.45391</Lintang>
+<Bujur>100.42341</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>19</SuhuMin>
+<SuhuMax>28</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>65</idKota>
+</Row>
+<Row>
+<Kota>Bukittinggi</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.27135</Lintang>
+<Bujur>100.37185</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>20</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>16</KecepatanAngin>
+<ArahAngin>Selatan</ArahAngin>
+<idKota>66</idKota>
+</Row>
+<Row>
+<Kota>Payakumbuh</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.23951</Lintang>
+<Bujur>100.64105</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>15</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>67</idKota>
+</Row>
+<Row>
+<Kota>Pariaman</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-0.62620</Lintang>
+<Bujur>100.14529</Bujur>
+<Balai>BBMKG_Medan</Balai>
+<Propinsi>Sumatera Barat</Propinsi>
+<Cuaca>Berawan</Cuaca>
+<_symbol>../imagesSWF/Berawan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>30</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>17</KecepatanAngin>
+<ArahAngin>Barat Daya</ArahAngin>
+<idKota>68</idKota>
+</Row>
+<Peringatan> - </Peringatan>
+</Isi></Cuaca>

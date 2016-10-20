@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alamatbalai>
+<Row>
+    <Balai>Balai Besar Wilayah I Medan</Balai>
+    <Alamat>Jl. Ngumban Surbakti No. 15 Selayang II Medan</Alamat>
+    <telp>061-8222877, 8222878</telp>
+    <fax>061-8222878</fax>
+    <kepalabal>Drs. Herry Saroso.</kepalabal>
+</Row>
+<Row>
+    <Balai>Balai Besar Wilayah II Ciputat</Balai>
+    <Alamat>Jl. KP Bulak Raya Cempaka Putih - Ciputat</Alamat>
+    <telp>021-7402739, 7444338, 7426485</telp>
+    <fax>021-7426485 ; 021-74709283</fax>
+    <kepalabal>Joko Siswanto, S.Sos</kepalabal>
+</Row>
+<Row>
+    <Balai>Balai Besar Wilayah III Denpasar</Balai>
+    <Alamat>Jl. Raya Tuban, Badung, Bali.</Alamat>
+    <telp>0361-751122</telp>
+    <fax>0361-757975</fax>
+    <kepalabal>I Wayan Suardana, SE, MM.</kepalabal>
+</Row>
+<Row>
+    <Balai>Balai Besar Wilayah IV Makassar</Balai>
+    <Alamat>Jl. Racing Centre No 4 Panaikang KP 1351 Makassar</Alamat>
+    <telp>0411-456493, 449243</telp>
+    <fax>0411-449286 ; 0411-455019</fax>
+    <kepalabal>H. Jumadi, ST</kepalabal>
+</Row>
+<Row>
+    <Balai>Balai Besar Wilayah V Jayapura</Balai>
+    <Alamat>Jl. Raya Abepura Entrop Kp 1572 Jayapura 99224</Alamat>
+    <telp>0967-535418, 0967-534439, 0967-535419</telp>
+    <fax>0967-534883, 0967-534439, 0967-595418</fax>
+    <kepalabal>Drs. Rivai Marulak</kepalabal>
+</Row>
+</alamatbalai>
